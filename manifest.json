@@ -1,0 +1,23 @@
+{
+  "id": "tiptap-editor",
+  "name": "TipTap Editor",
+  "version": "1.0.0",
+  "description": "Rich text editor with markdown support for GSM Flow CMS",
+  "author": {
+    "name": "GSM Flow Team",
+    "email": "support@gsmflow.com",
+    "url": "https://gsmflow.com"
+  },
+  "license": "MIT",
+  "sdkVersion": "^1.0.0",
+  "entry": "https://raw.githubusercontent.com/sawyelin1011/plugin-tiptap-editor/main/dist/index.js",
+  "extensionPoints": [
+    "cms.editor.toolbar",
+    "cms.field",
+    "cms.shortcode"
+  ],
+  "permissions": ["cms.write"],
+  "signature": "SIGNATURE_PLACEHOLDER",
+  "signedBy": "gsmflow-public-key",
+  "signedAt": "2026-02-20T00:00:00Z"
+}
