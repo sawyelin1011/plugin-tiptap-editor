@@ -1,7 +1,7 @@
 {
   "id": "tiptap-editor",
   "name": "TipTap Editor",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Rich text editor with markdown support for GSM Flow CMS",
   "author": {
     "name": "GSM Flow Team",
